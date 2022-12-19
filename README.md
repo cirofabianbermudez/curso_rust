@@ -1,2 +1,3 @@
 # curso_rust
-Notas de rust
+
+Vamos a hacer unso pequeños cambios para configurar el repo en git
